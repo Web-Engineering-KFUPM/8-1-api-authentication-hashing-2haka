@@ -14,6 +14,8 @@ In this lab, you will build a secure backend that provides weather information b
 
 You must complete the TODOs in `server.js` to implement secure user authentication and a protected weather endpoint.
 
+**Deadline: December 13, 2025**
+
 ---
 
 ## 📖 Reading Assignment  
